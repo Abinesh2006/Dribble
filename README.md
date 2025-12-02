@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+# Ex no 10: Project Responsive Web Design using Bootstrap
 ## Date:20-11-2025
 
 ## AIM:
